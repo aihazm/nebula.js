@@ -35,7 +35,7 @@
     "spec": "scriptappy-from-jsdoc -c ./spec/spec.conf.js"
   },
   "devDependencies": {
-    "@material-ui/core": "4.10.1",
+    "@material-ui/core": "4.10.2",
     "@material-ui/icons": "4.9.1",
     "@material-ui/styles": "4.10.0",
     "@nebula.js/locale": "1.0.0",
